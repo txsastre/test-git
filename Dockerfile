@@ -1,6 +1,8 @@
 # Use the official Apache HTTP Server image from the Docker Hub
 FROM ubuntu/apache2
 
+# WORKDIR /var/www/html 
+
 # Copy your website content to the container
 COPY code/ /var/www/html/
 
