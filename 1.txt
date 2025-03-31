@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 asdfas
+=======
+adfasf
+nova linia
+new 
+>>>>>>> a84268dcbd282a82fa15c3ebcab51b9f8b1682af
